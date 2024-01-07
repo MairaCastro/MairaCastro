@@ -6,26 +6,28 @@ Atualmente, estou expandindo meus horizontes e estudando Desenvolvimento Full St
 
 Tecnologias que eu uso:
 
-[![HTML](https://img.shields.io/badge/HTML-5-orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
-[![Git](https://img.shields.io/badge/Git-Commit-green?style=for-the-badge&logo=git)](https://git-scm.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-Library-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Java](https://img.shields.io/badge/Java-SE-red?style=for-the-badge&logo=java)](https://www.java.com/)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 
 Databases:
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
 
 Workstation Tools:
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-IDE-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-IDE-green?style=for-the-badge&logo=spring)](https://spring.io/tools)
-[![Eclipse](https://img.shields.io/badge/Eclipse-IDE-purple?style=for-the-badge&logo=eclipse)](https://www.eclipse.org/)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 
 Conecte-se comigo:
 
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ma%C3%ADra-castro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ma%C3%ADra%20Castro-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ma%C3%ADra-castro/)
+
 
 Obrigado por visitar! ✨
