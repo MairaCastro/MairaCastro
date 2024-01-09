@@ -13,6 +13,7 @@ Tecnologias que eu uso:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![Figma](https://img.shields.io/badge/-Figma-1D1D1B?style=for-the-badge&logoColor=white&labelColor=grey)
 
 Databases:
 
