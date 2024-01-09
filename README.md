@@ -27,7 +27,7 @@ Workstation Tools:
 
 Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ma%C3%ADra%20Castro-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ma%C3%ADra-castro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ma%C3%ADra-castro/)
 
 
 Obrigado por visitar! ✨
