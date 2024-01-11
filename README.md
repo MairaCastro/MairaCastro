@@ -14,6 +14,7 @@ Tecnologias que eu uso:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![Figma](https://img.shields.io/badge/-Figma-1D1D1B?style=for-the-badge&logoColor=white&labelColor=grey)
+![Postman](https://img.shields.io/badge/-Postman-FCA121?style=flat&logo=postman&logoColor=white)
 
 Databases:
 
