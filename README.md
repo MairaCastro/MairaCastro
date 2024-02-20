@@ -1,6 +1,6 @@
 Bem-vindo(a) ao meu GitHub! 👋
 
-Olá, sou Maíra Castro, uma designer apaixonada e entusiasta de tecnologia, especializada em UX Design, Design Thinking e Teste de Software (QA). Com uma graduação em design e mais de 17 anos de experiência em diversas áreas, trabalhei principalmente em empresas SaaS, nos modelos B2B e B2C. Minha jornada profissional proporcionou-me uma visão holística dos processos que envolvem produtos digitais, com uma mentalidade centrada no usuário e um compromisso com a qualidade.
+Olá, sou Maíra Castro, uma designer apaixonada e entusiasta de tecnologia, especializada em UX Design, Design Thinking e Teste de Software (QA). Com uma graduação em design e mais de 17 anos de experiência em diversas áreas, trabalhei principalmente em empresas SaaS, nos modelos B2B e B2C. Minha jornada profissional proporcionou-me uma visão sistêmica dos processos que envolvem produtos digitais, com uma mentalidade centrada no usuário e um compromisso com a qualidade.
 
 Atualmente, estou expandindo meus horizontes e estudando Desenvolvimento Full Stack. Com a combinação de meus conhecimentos em Qualidade de Software, UX Design e agora em Desenvolvimento, estou ansiosa para contribuir ainda mais para a área de tecnologia, trazendo uma abordagem única e abrangente para a criação e aprimoramento de produtos.
 
